@@ -1,4 +1,4 @@
-
+i want to check if it works
 /bin/bash: line 1: wq: command not foun
 d
 how is life
