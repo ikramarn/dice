@@ -4,3 +4,4 @@ d
 how is life
 fisrt branch is introduce
 2nd comit in the branchd
+its for repo
