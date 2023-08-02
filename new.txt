@@ -1,2 +1,4 @@
 
-/bin/bash: line 1: wq: command not found
+/bin/bash: line 1: wq: command not foun
+d
+how is life
