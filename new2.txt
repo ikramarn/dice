@@ -1,2 +1,6 @@
 i 2nd branch intro
+<<<<<<< HEAD
 it is different
+=======
+hows everything there?
+>>>>>>> 3a3603dcf79681964b72f234b01a32bcff441377
