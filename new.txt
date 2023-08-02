@@ -2,4 +2,5 @@
 /bin/bash: line 1: wq: command not foun
 d
 how is life
-fisrt branch is introduced
+fisrt branch is introduce
+2nd comit in the branchd
